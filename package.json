@@ -1,0 +1,22 @@
+{
+  "name": "electron-app",
+  "version": "1.0.0",
+  "description": "Simple app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ch33ri0s/electron-app.git"
+  },
+  "author": "Tenyson Partridge <tenysonpartridge@gmail.com> (http://www.yourhomepage.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ch33ri0s/electron-app/issues"
+  },
+  "homepage": "https://github.com/Ch33ri0s/electron-app#readme",
+  "dependencies": {
+    "electron": "^2.0.8"
+  }
+}
